@@ -3,55 +3,66 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:14.29] High hopes
-[00:16.73] Counting all the stars that shine free
-[00:21.40] Distant echoes
-[00:24.76] Calling my name to run back home
-[00:40.76] 
-[00:31.37] Running so fast my lungs can't hold
-[00:37.32] Still chasing lights as I go
-[00:51.32] 
-[00:41.08] Never turn back
-[00:41.58] Never turn back
-[00:43.90] (Never going back)
-[00:44.42] Never turn back
-[00:46.21] Never turn back
-[00:47.73] Never turn back
-[00:49.40] Never turn back
-[00:51.87] I'm running so fast my lungs can't hold
-[01:11.37] 
-[01:04.82] I'm running so fast my lungs can't hold
-[01:24.32] 
-[01:22.43] Innocence on a wire
-[01:25.95] Somehow, we still survive
-[01:29.41] Shaking knees and faithful eyes
-[01:32.31] Writing our stories as we climb
-[01:37.74] As we climb
-[01:46.10] I'm still chasing lights as I go
-[02:02.10] 
-[01:48.84] Never turn back
-[01:50.62] Never turn back
-[01:52.57] (Never going back)
-[01:53.21] Never turn back
-[01:55.04] Never turn back
-[01:56.72] Never turn back
-[01:58.13] Never turn back
-[02:05.63] 
-[01:59.62] I'm still chasing lights as I go
-[02:02.14] Never turn back
-[02:04.48] Never turn back
-[02:05.10] Never turn back
-[02:07.89] Never turn back
-[02:16.19] Still chasing lights as I go
-[02:16.19] Never turn back
-[02:18.24] Never turn back
-[02:25.74] 
-[02:19.29] I'm running so fast my lungs can't hold
-[02:38.79] 
-[02:27.55] I'm running so fast my lungs can't hold
-[02:35.62] I'm running so fast my lungs can't hold
-[02:42.49] They're calling my name to run back home
-[03:02.49] 
-[02:55.45] I'm running so fast my lungs can't hold
-[03:09.42] I'm running so fast my lungs can't hold
+High, high hopes
+
+Had to have high, high hopes for a living
+Shooting for the stars when I couldn′t make a killing
+Didn't have a dime, but I always had a vision
+Always had high, high hopes (high, high hopes)
+Had to have high, high hopes for a living
+Didn′t know how, but I always had a feeling
+I was gonna be that one in a million
+Always had high, high hopes
+
+Mama said, "Fulfill the prophecy
+Be something greater, go make a legacy"
+Manifest destiny back in the days
+We wanted everything, wanted everything
+Mama said, "Burn your biographies
+Rewrite your history, light up your wildest dreams"
+Museum victories everyday
+We wanted everything, wanted everything
+pre-chorus
+Mama said, "Don't give up, it's a little complicated
+All tied up, no more love, and I′d hate to see you waiting"
+
+Had to have high, high hopes for a living
+Shooting for the stars when I couldn′t make a killing
+Didn't have a dime, but I always had a vision
+Always had high, high hopes
+Had to have high, high hopes for a living
+Didn′t know how, but I always had a feeling
+I was gonna be that one in a million
+Always had high, high hopes (high, high hopes)
+verse
+Mama said, "It's uphill for oddities
+Stranger crusaders ain′t ever wannabes"
+The weird and the novelties don't ever change
+We wanted everything, wanted everything
+Stay up on that rise, stay up on that rise
+And never come down, oh-oh
+Stay up on that rise, stay up on that rise
+And never come down
+
+Mama said, "Don′t give up, it's a little complicated
+All tied up, no more love, and I'd hate to see you waiting
+They say it′s all been done, but they haven′t seen the best of me-eh-eh-eh
+So I got one more run, and it's gonna be a sight to see-eh-eh-eh"
+
+Had to have high, high hopes for a living
+Shooting for the stars when I couldn′t make a killing
+Didn't have a dime, but I always had a vision
+Always had high, high hopes (high, high hopes)
+Had to have high, high hopes for a living
+Didn′t know how, but I always had a feeling
+I was gonna be that one in a million
+Always had high, high hopes (high, high hopes)
+Had to have high, high hopes for a living
+Shooting for the stars when I couldn't make a killing
+Didn′t have a dime, but I always had a vision
+Always had high, high hopes
+Had to have high, high hopes for a living
+Didn't know how, but I always had a feeling
+I was gonna be that one in a million
+Always had high, high hopes (high, high hopes)
 ```
